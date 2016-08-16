@@ -1,0 +1,4 @@
+func(x) = x * x;
+func(x) = x
+*
+x;
